@@ -4,7 +4,7 @@
 
 🌟 Welcome to my GitHub profile! 🌟
 
-Here you can find my projects, inspired by innovative ideas and technological solutions. As a Full Stack engineer, I combine ASP.NET and React to create powerful and elegant web applications.
+Here you can find my projects, inspired by innovative ideas and technological solutions. As a Front-end developer, I use React to create elegant web applications.
 
 About Me:
 🔹 Technology Enthusiast
@@ -12,9 +12,9 @@ About Me:
 🔹 Interested in both visual and functional aspects of web development
 
 Technologies:
-💻 C# / ASP.NET
+💻 JavaScript
 🔧 React
-🛠️ HTML5 / CSS3 / JavaScript
+🛠️ HTML5 / CSS3 
 🎨 Bootstrap
 📊 SQL 
 🔍 Git

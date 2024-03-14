@@ -1,6 +1,6 @@
     I'm Kristiyan Bakalov 🚀💻
 
-👨‍💻 Full Stack Engineer | ASP.NET | React
+👨‍💻 Front-end Developer | JavaScript | React |
 
 🌟 Welcome to my GitHub profile! 🌟
 
